@@ -1,0 +1,73 @@
+body {
+	background-color: ghostwhite;
+}
+
+span {
+    color: white;
+    background-color: transparent;
+    font-weight: bold; }  
+
+
+.green{
+	background-color: green;
+}
+.red{
+	background-color: red;
+} 
+.blue {
+	background-color: blue;
+}
+li.seen {
+	color: pink;
+}
+li.unseen {
+	color: red;
+}
+
+
+li.seen.good{
+	color: green;
+}
+a #biography {
+	text-decoration: none
+}
+
+/*Coding bootcamp css */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  margin-top: 0;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bolder;
+}
+h2 {
+  margin-top: 0;
+  text-align: center;
+  font-size: 30px;
+}
+img {
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+p {
+  line-height: 1.5em;
+  width: 50%;
+  margin: 1em auto;
+  text-align: justify;
+  background-color: rgba(0,0,0,0.5);
+  padding: 20px;
+}
+.author {
+  text-align: center;
+  font-size: 0.8em;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
