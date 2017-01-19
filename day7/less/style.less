@@ -1,0 +1,35 @@
+@my_favourite_font_size: 16px;
+@main_color: orange;
+@highlight_color: darkblue;
+
+body 
+
+
+
+p {
+font-size: @my_favourite_font_size;
+..padded;
+.shadowed;
+}
+ul li{
+    font-size: @my_favourite_font_size;
+}
+h1,h2{
+    color: @main_color;
+}
+
+section{
+    padding: @my_favourite_font_size;
+    border-bottom: 1px solid @highlight_color
+}
+
+.bordered {
+    border: 1px solid red;
+}
+.list-item {
+    background-color: yellow;
+    .bordered;
+}
+a {
+    text-decoration: none;
+}
