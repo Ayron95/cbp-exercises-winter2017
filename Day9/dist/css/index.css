@@ -1,0 +1,14 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  font-family: sans-serif;
+}
+h1 {
+  color: skyblue;
+}
+
+/*# sourceMappingURL=index.css.map */

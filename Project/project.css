@@ -1,0 +1,170 @@
+body{
+	background-color: none;
+	margin: 0;
+}
+
+.header{
+background-color: none;
+height:80px;
+
+}
+
+.boxbg{
+background-image: url("img/rogue-one.jpg");
+background-size: 400px;
+height: 500px;
+position: relative;
+
+}
+.boxbg1{
+	background-image: url("img/inferno.jpg");
+	background-size: 400px;
+height: 500px; 
+position: relative;
+}
+.boxbg2{
+	background-image: url("img/the-amazing-spider-man-2.jpg");
+	background-size: 400px;
+height: 500px;
+position: relative;
+}
+.boxbg3{
+		background-image: url("img/theory-of-everything.jpg");
+		background-size: 400px;
+height: 500px;
+position: relative;
+}
+
+.btmtitle{ font-size: 26px;
+	font-weight: bold;
+	color: white;
+	position: absolute;
+	bottom: 50px;
+	background-color:rgba(0,0,0, 0.7);
+	width:90%;
+	padding:10px 0 10px 10px;
+	
+
+}
+.btmtext{
+	font-size: 19px;
+	font-weight: bold;
+	color: white;
+	position: absolute;
+	bottom: 26px;
+	background-color:rgba(0,0,0, 0.7);
+	width:90%;
+	padding:10px 0 10px 10px;
+	
+}
+
+.container{ width: 980px;
+	margin:0 auto;
+}
+
+.videobg{
+	background-color: black;
+	background-image: url("img/grungeimage.jpg");
+
+}
+
+h1 {
+	font-weight: bolder;
+	font-size:52px;
+	padding: 5px 20px 5px 20px ;
+
+}
+
+h2 {
+	font-size:42px;
+	padding: 5px 20px 5px 20px'                                                                                                                                                                                                                                                          
+    color:#000;
+}
+
+h2.white{
+	color: #fff;
+}
+
+p {
+	line-height: 2em;
+  margin: 1em auto;
+  text-align: justify;
+  font-size: 16px;
+  font-family: 'Arsenal', sans-serif;
+  
+}
+
+}
+.heading{
+font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+
+
+ul {float:right; 
+}
+
+ li{
+ 	display: inline;
+ 	font-family: 'Fira Sans Extra Condensed', sans-serif;
+ 	padding: 0px 0px 0px 20px;
+ 	color:black;
+ }
+
+li a{
+display: inline;
+ 	font-family: 'Fira Sans Extra Condensed', sans-serif;
+ 	padding: 0px 0px 0px 20px;
+ 	float: left;
+ 	color:black;
+ 	text-decoration:none;
+}
+
+li a:hover {
+	color:orange;
+}
+
+
+hr.greyrule {border-top:1px solid #dedede;
+border-bottom:0px;
+border-left:0px;
+border-right:0px;
+margin: 10px 0 10px 0;
+}
+
+hr.whiterule {border-top:1px solid #fff;
+border-bottom:0px;
+border-left:0px;
+border-right:0px;
+margin: 10px 0 10px 0;
+
+}
+.footer {
+	background-color: black;
+	color: white;
+	font-size:12px;
+	font-weight:normal;
+}
+.footermenu{
+	background-color: black;
+	color: white;
+	
+
+}
+
+.footermenu ul {float:right;}
+
+.footermenu li {display: inline;
+ 	font-family: 'Fira Sans Extra Condensed', sans-serif;
+ 	padding: 0px 0px 0px 20px;
+ 	float: left;
+ 	color:white;}
+
+ 	.footermenu li a {display: inline;
+ 	font-family: 'Fira Sans Extra Condensed', sans-serif;
+ 	padding: 0px 0px 0px 20px;
+ 	color:white;}
+
+ 	.footermenu li a:hover {color:orange;}
+
+
+	
